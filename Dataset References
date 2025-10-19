@@ -1,0 +1,9 @@
+Dataset References:
+https://zenodo.org/records/11120930
+Citation
+Cabrera, M., San-Martín-Órdenes, J., Segovia, C., Naranjo, J., Leake, J., Fernández, G., & Arráiz de Fernández, C. (2024). Dataset used in Spatio-temporal analysis of Dengue fever in Bolivia: Climatic, environmental and sociodemographic factors [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11120930
+
+ \item \textbf{Dengue statistics (2014--2023):} Pan American Health Organization (PAHO) PLISA dengue serotype dataset.\footnote{\url{https://www3.paho.org/data/index.php/es/temas/indicadores-dengue/dengue-nacional/549-dengue-serotypes-es.html}}
+  \item \textbf{Vegetation (NDVI):} FAO GIEWS ASIS, Bolivia NDVI ADM1 CSV.\footnote{\url{https://www.fao.org/giews/earthobservation/asis/data/country/BOL/GRAPH_NDVI_AGRI/ndvi_adm1_data.csv}}
+  \item \textbf{Meteorology:} Bolivian National Meteorological and Hydrological Service (SENAMHI).\footnote{\url{https://senamhi.gob.bo/index.php/inicio}}
+  \item \textbf{ENSO/ONI (for potential extensions):} NOAA ONI.\footnote{\url{https://www.ncei.noaa.gov/access/monitoring/enso/sst}}
